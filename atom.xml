@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-08T12:56:02.847Z</updated>
+  <updated>2020-06-10T03:26:51.911Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>diary</title>
-    <link href="http://yoursite.com/2020/06/08/diary/"/>
-    <id>http://yoursite.com/2020/06/08/diary/</id>
-    <published>2020-06-08T12:56:02.000Z</published>
-    <updated>2020-06-08T12:56:02.847Z</updated>
+    <title>Another-OrdinaryDay</title>
+    <link href="http://yoursite.com/2020/06/10/Another-OrdinaryDay/"/>
+    <id>http://yoursite.com/2020/06/10/Another-OrdinaryDay/</id>
+    <published>2020-06-10T01:29:43.000Z</published>
+    <updated>2020-06-10T03:26:51.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>從那一灣江水䠀來，青色便與我無關。我只得慢慢沉入一片后土，裹一身朽木，聽四季變化。枯葉隨風蕩，憂思滿山崗。</p><a id="more"></a><hr><blockquote><ul><li><strong>周一</strong><br>提交了SM9B55上電複位Delay的仿真報告（ATOP-LDO-18）。</li></ul></blockquote><blockquote><ul><li><strong>周二</strong><br>提交了SM9B55上電複位Delay的仿真報告（ATOP-LDO-33）。</li></ul></blockquote><blockquote><ul><li><strong>周三</strong> <font face="楷体"><br>建立了HEXO聯合Github的博客平台。<br>熟悉了一些基于HEXO的Markdown语法，这一过程花费了我将近3个小时。又是在公司做的这件事，会不会引起同事们的反感呢？我不知道，但是我的任务完成了啊，又没有新任务安排下来。不过下午就要开始分析分析SM9B53的模拟模块了，了解一下波哥是如何制作的模拟需求。当然，我们也可以从网上了解部分关于SOC系统设计时的考虑。<font color=red>就是讲如果你要设计一个SOC系统，你如何利用现有的资源去设计，然后提出你还需要什么资源，列出具体的清单来，提交给设计人员！！！</font></font></li></ul></blockquote><blockquote><ul><li><strong>周四</strong></li></ul></blockquote><blockquote><ul><li><strong>周五</strong></li></ul></blockquote><blockquote><ul><li><strong>周六</strong></li></ul></blockquote><blockquote><ul><li><strong>周天</strong></li></ul></blockquote><hr><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;從那一灣江水䠀來，青色便與我無關。我只得慢慢沉入一片后土，裹一身朽木，聽四季變化。枯葉隨風蕩，憂思滿山崗。&lt;/p&gt;
     
     </summary>
     
     
+      <category term="周記" scheme="http://yoursite.com/categories/%E5%91%A8%E8%A8%98/"/>
+    
+    
+      <category term="零散" scheme="http://yoursite.com/tags/%E9%9B%B6%E6%95%A3/"/>
+    
+      <category term="想法" scheme="http://yoursite.com/tags/%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="日更" scheme="http://yoursite.com/tags/%E6%97%A5%E6%9B%B4/"/>
+    
+      <category term="雜貨鋪" scheme="http://yoursite.com/tags/%E9%9B%9C%E8%B2%A8%E9%8B%AA/"/>
     
   </entry>
   
